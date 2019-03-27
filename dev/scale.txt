@@ -1,0 +1,14 @@
+10.0			decameter	dam
+01.0			meter		m
+00.1			decimeter	dm
+00.01			centimeter	cm
+00.001			Millimeter	mm
+00.000 1		--
+00.000 01		--
+00.000 001		Micrometer	µm
+00.000 000 1		--
+00.000 000 01		--
+00.000 000 001		Nanometer	nm
+00.000 000 0001		--
+00.000 000 000 01	--
+00.000 000 000 001	Picometer	pm
